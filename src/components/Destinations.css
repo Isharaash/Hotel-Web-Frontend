@@ -1,0 +1,35 @@
+
+.destinations-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "BodoniStd-BookItalic", serif;
+    font-size: 20px;
+    padding: 10px 0px;
+  }
+  .destinations-container h3{
+    font-size: 30px;
+    font-style: italic;
+    margin: 20px 0px 10px;
+    font-family: "BodoniStd-BookItalic", serif;
+    color: #77328B;
+  }
+  
+  .destination-select {
+    margin-bottom: 50px;
+    padding: 8px;
+    border-color: #252776;
+    color: #252776;
+    font-size: 16px;
+    font-style: italic;
+    width: 350px;
+  }
+  
+ 
+  .destination-image img {
+    max-width: 60%; 
+    display: block; 
+    margin: 0 auto;
+ 
+  }
+  

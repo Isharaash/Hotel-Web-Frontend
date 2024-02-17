@@ -1,0 +1,253 @@
+
+
+.about-section {
+    
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    margin-left: 80px;
+    
+    
+  }
+  
+  .about-section h3 {
+    color: #77328b;
+    font-style: italic;
+    font-family: "BodoniStd-BookItalic", serif;
+    margin-top: 50px;
+    font-size: 15px;
+
+  }
+  
+  .about-section ul {
+    list-style-type: none;
+    padding: 0;
+    font-weight: 0;
+    font-family: "UniversLT-Light", serif;
+ margin-top: -5px;
+ 
+
+  }
+  
+  .about-section li {
+    margin-bottom: -5px;
+    text-decoration: none;
+    
+  }
+  
+  .about-section a {
+    color: #9a9a9a;
+    text-decoration: none;
+    padding: 10px 0;
+    font-size: 7px;
+
+    
+  }
+  
+  .about-section a:hover {
+    text-decoration: underline;
+
+  }
+  
+/*  Get In Touch*/
+
+
+.Get-in-Touch-section {
+    
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    margin-left: 280px;
+    margin-top: -318px;
+    
+  }
+  
+  .Get-in-Touch-section h3 {
+    color: #77328b;
+    font-style: italic;
+    font-family: "BodoniStd-BookItalic", serif;
+    margin-top: 50px;
+    font-size: 15px;
+
+  }
+  
+  .Get-in-Touch-section ul {
+    list-style-type: none;
+    padding: 0;
+    font-weight: 0;
+    font-family: "UniversLT-Light", serif;
+    margin-top: -5px;
+ 
+
+  }
+  
+  .Get-in-Touch-section li {
+    margin-bottom: -5px;
+    text-decoration: none;
+    
+  }
+  
+  .Get-in-Touch-section a {
+    color: #9a9a9a;
+    text-decoration: none;
+    padding: 10px 0;
+    font-size: 7px;
+
+    
+  }
+  
+  .Get-in-Touch-section a:hover {
+    text-decoration: underline;
+
+  }
+  /* section */
+  .section {
+    
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    margin-left: 280px;
+    margin-top: -88px;
+    
+  }
+  
+  .section h3 {
+    color: #77328b;
+    font-style: italic;
+    font-family: "BodoniStd-BookItalic", serif;
+    margin-top: 50px;
+    font-size: 15px;
+
+  }
+  
+  .section ul {
+    list-style-type: none;
+    padding: 0;
+    font-weight: 0;
+    font-family: "UniversLT-Light", serif;
+    margin-top: -5px;
+ 
+
+  }
+  
+  .section li {
+    margin-bottom: -5px;
+    text-decoration: none;
+    
+  }
+  
+  .section a {
+    color: #9a9a9a;
+    text-decoration: none;
+    padding: 10px 0;
+    font-size: 7px;
+
+    
+  }
+  
+  .section a:hover {
+    text-decoration: underline;
+  }
+  /* Icon */
+  .icons {
+    
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    margin-left: 435px;
+    margin-top: -280px;
+    
+  }
+  
+  .icons h3 {
+    color: #77328b;
+    font-style: italic;
+    font-family: "BodoniStd-BookItalic", serif;
+    margin-top: 50px;
+    font-size: 15px;
+
+  }
+  .icons svg {
+    color:#9a9a9a; 
+    font-size: 12px;
+    margin-right: 10px;
+    
+  }
+  
+  .icons svg:hover {
+    color:#302f2f; 
+  }
+
+  /* Enail Section */
+
+  .Email-section {
+    
+    margin: 0 auto;
+    max-width: 800px;
+    margin-top: -50px;
+    margin-left: 450px;
+    
+  }
+  
+  .Email-section h3 {
+    color: #77328b;
+    font-style: italic;
+    font-family: "BodoniStd-BookItalic", serif;
+    margin-top: 50px;
+    font-size: 15px;
+
+  }
+  .Email-input {
+    position: relative;
+  }
+  
+  .Email-input input[type="email"] {
+    padding: 10px 35px 10px 15px; 
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    width: 220px;
+    height: 40px;
+    font-family: "UniversLT-Light", serif;
+    font-size: 9px;
+  }
+  
+  .Email-input button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    width: 220px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: #9a9a9a; 
+    font-family: "BodoniStd-BookItalic", serif;
+  }
+  .policy-text{
+
+    font-family: "BodoniStd-BookItalic", serif;
+    font-size: 6px;
+    text-align:left;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: #9a9a;
+
+  }
+
+  input[type="checkbox"] {
+    position: absolute;
+    margin-top: -43px;
+    margin-left: 1px;
+    width: 7px; 
+    height: 7px;
+    border-radius: 50%; 
+    cursor: pointer;
+    background-color:#9a9a;
+    color: #9a9a;;
+
+
+    
+    
+  }

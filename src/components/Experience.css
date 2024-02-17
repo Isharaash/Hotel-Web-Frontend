@@ -1,0 +1,82 @@
+.page-text h3{
+font-family:'Proxima Nova', sans-serif;
+font-size: 22px;
+margin: 0px 0px 8px;
+color: #104C97;
+margin-top: 40px;
+margin-left: 45px;
+font-weight: 700;
+
+}
+.page-text p{
+    font-family:'Proxima Nova', sans-serif;
+    font-size: 9px;
+    margin: 0px 0px 8px;
+    margin-top: 10px;
+    margin-left: 45px;
+    color: #121212;
+    
+    
+    }
+
+.gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+  }
+  
+  .gallery-row {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .gallery-item {
+    position: relative;
+    margin: 5px;
+    cursor: pointer; 
+  }
+  
+  .gallery-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(24, 24, 24, 0.5); 
+    z-index:1; 
+  }
+  
+  .image-title {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 5;
+    color: white;
+    padding: 24px 12px;
+    transition: bottom 0.2s ease;
+    font-size: 11px;
+    text-align: center;
+    width: 100%; 
+    line-height: 1.4;
+    font-family:'Proxima Nova', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+
+
+  }
+  .gallery-item img {
+    max-width: 220px;
+    position: relative; 
+
+   
+    
+  }
+  
+  
+  .gallery-item:hover .image-title {
+    bottom: 50px;
+  }
+  

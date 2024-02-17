@@ -1,0 +1,28 @@
+.carousel-image {
+    width: 767px; 
+    height: 280px; 
+    object-fit: cover; 
+  }
+  .carousel-caption{
+    color: rgb(253, 253, 253); 
+    font-size: 16px; 
+  }
+  
+  .caption-heading {
+    font-size: 18px; 
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px #000;
+    margin-top: -10px;
+  }
+  
+  .caption-text {
+    font-size: 14px;
+    color: white; 
+    text-shadow: 2px 2px 4px #000;
+    margin-top: -10px;
+   
+  }
+  .carousel-indicators [data-bs-target]{
+    height: inherit;
+  }
